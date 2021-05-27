@@ -4,7 +4,7 @@ I’m @sanjeetk26
 - 👀 I’m interested in Computer Vision and Machine Learning
 - 🌱 I’m currently learning about various ML algorithms
 - 💞️ I’m looking to collaborate on CV research projects
-- 📫 Reach out to me on [Email](kapadia.sanjeet@gmail.com) [Linkedin](https://www.linkedin.com/in/sanjeetkapadia/) [Instagram](https://www.instagram.com/sanjeet26/)
+- 📫 Reach out to me on [Email](mailto:kapadia.sanjeet@gmail.com) [Linkedin](https://www.linkedin.com/in/sanjeetkapadia/) [Instagram](https://www.instagram.com/sanjeet26/)
 
 
 <!---
